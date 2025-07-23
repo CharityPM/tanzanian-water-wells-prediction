@@ -144,4 +144,4 @@ Edit
 ├── README.md
 └── requirements.txt
 ✨ Acknowledgements
-This project is inspired by the real-world water infrastructure challenges in Tanzania. The dataset was derived from the Taarifa project and other public water point mapping initiatives.
+This project is inspired by the real-world water infrastructure challenges in Tanzania.
